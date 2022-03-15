@@ -2,7 +2,7 @@
 
 git clone https://github.com/rituvermaCS/User-Table-Dashboard/
 
-# To start this application in your system use command to install npm in project directory
+## To start this application in your system use command to install npm in project directory
 
 npm i 
 
