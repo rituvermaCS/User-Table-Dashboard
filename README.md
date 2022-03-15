@@ -1,3 +1,5 @@
+# User-Table-Dashboard
+
 i) This project is a basic website with user table dashboard module. \
 
 ii) I have create it using react and redux. \
@@ -6,7 +8,7 @@ iii) This site supports sidebar, links and multiple themes. \
 
 iv) It can change background colors in- 
 * Dark
-* Light \
+* Light 
 
 v) It can change hover and themes in- 
 * Red
