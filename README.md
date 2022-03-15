@@ -30,3 +30,5 @@ $ npm install
 ### After succesful installation of npm start it using following command
 
 $ npm start
+
+Following command automatically start react app with http://localhost:3000/
