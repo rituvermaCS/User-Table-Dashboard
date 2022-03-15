@@ -33,6 +33,6 @@ $ npm start
 
 Following command automatically start react app with you local host (For eg - http://localhost:3000/)
 
-ScreenShots- 
+Use-table dasboard- 
 
 ![image](https://i.imgur.com/Nh66S77.png)
