@@ -1,0 +1,13 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Other-Modules",
+        "route": "/other",
+        "icon": "bx bx-user-pin"
+    }
+]
+
